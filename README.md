@@ -234,3 +234,6 @@ while expression:
    statement(s)
 ```
 
+## Conclusion:
+The above are the very basics of python language. It is just to show the difference between other languages and python in its syntax simplicity. It is a platform independent scripted language with full access to operating system API's. Compared to other programming languages, it allows more run-time flexibility. It supports interactive mode that allows interacting Testing and debugging of snippets of code. In Python, since there is no compilation step, editing, debugging and testing is fast.
+
