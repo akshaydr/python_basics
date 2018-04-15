@@ -1,4 +1,9 @@
 # Introduction to Python:
 
-## What is it...??
-Its a general-purpose interactive, object-oriented and high-level programming language. It was created by Guido van Rossum during 1985- 1990. Like Perl, Python source code is also available under the GNU General Public License (GPL). It is a very simple language, and has a very straightforward syntax. 
+This repository contain tutorials to learn Python from scratch. 
+
+# Workflow
+To learn python from scratch, The stepwise workflow i am following is as follows
+
+## Section 1
+- [x] [Part 1 : About Python](doc/python_intro.md)
