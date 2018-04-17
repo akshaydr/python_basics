@@ -13,3 +13,4 @@ To learn python from scratch, The stepwise workflow i am following is as follows
 ## Section 2
 - [x] [Part 1 : Variable Types](doc/variable_type.md)
 - [x] [Part 2 : Data Type Conversion](doc/datatype_conersion.md)
+- [x] [Part 3 : Basic operators](doc/operators.md)
