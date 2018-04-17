@@ -1,6 +1,6 @@
 # Introduction to Python:
 
-This repository contain tutorials to learn Python from scratch.
+This repository contain tutorials to learn Python version 3.6.2.
 
 # Workflow
 To learn python from scratch, The stepwise workflow i am following is as follows
