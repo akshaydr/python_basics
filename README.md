@@ -11,4 +11,4 @@ To learn python from scratch, The stepwise workflow i am following is as follows
 - [x] [Part 3 : Python3 bascis and syntax](doc/run_python.md)
 
 ## Section 2
-- [x] [Part 2 : Variable Type](doc/variable_type.md)
+- [x] [Part 2 : Variable Types](doc/variable_type.md)

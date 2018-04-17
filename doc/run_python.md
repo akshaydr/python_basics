@@ -47,15 +47,15 @@ Here are naming conventions for Python identifiers −
 # Reserved Workds
 The following list shows the Python keywords. These are reserved words and you cannot use them as constant or variable or any other identifier names. All the Python keywords contain lowercase letters only.
 ```
-and	            exec    	   not
-assert	        finally      or
-break         	for          pass
-class         	from         print
+and             exec         not
+assert          finally      or
+break           for          pass
+class           from         print
 continue        global       raise
-def         	  if           return
-del         	  import       try
-elif          	in           while
-else          	is           with
+def             if           return
+del             import       try
+elif            in           while
+else            is           with
 except          lambda       yield
 ```
 
