@@ -5,16 +5,16 @@ As mentioned in part 2 of Section 1, We would be using python 3.5.2 throughout t
 ## Interactive Mode Programming
 Invoking the interpreter without passing a script file as a parameter brings up the following prompt:
 
-`Python 3.5.2 (default, Nov 23 2017, 16:37:01)
+```Python 3.5.2 (default, Nov 23 2017, 16:37:01)
 [GCC 5.4.0 20160609] on linux
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
-`
+```
 
 Type the following text at the Python prompt and press the Enter,
-`python3
+```
 >>> print ("Hello World!")
-`
+```
 
 However in python 2, parenthesis is not necessary in the print statement. Parenthesis is compulsory in python 3. Python version 3.5.2 will produce the following result −
 `Hello World!`
@@ -25,9 +25,9 @@ However in python 2, parenthesis is not necessary in the print statement. Parent
 Invoking the interpreter with a script parameter begins execution of the script and continues until the script is finished. When the script is finished, the interpreter is no longer active.
 
 Let us write a simple Python program in a script. Python files have extension .py. Type the following source code in a hello.py file −
-`python3
+```python3
 print ("Hello World!")
-`
+```
 
 Now open a terminal and run the program as follows,
 `$ python3 hello.py`
@@ -46,7 +46,7 @@ Here are naming conventions for Python identifiers −
 
 # Reserved Workds
 The following list shows the Python keywords. These are reserved words and you cannot use them as constant or variable or any other identifier names. All the Python keywords contain lowercase letters only.
-`python3
+```
 and	            exec    	   not
 assert	        finally      or
 break         	for          pass
@@ -57,25 +57,25 @@ del         	  import       try
 elif          	in           while
 else          	is           with
 except          lambda       yield
-`
+```
 
 # Lines and Indentation
 Python provides no braces to indicate blocks of code for class and function definitions or flow control. Blocks of code are denoted by line indentation, which is rigidly enforced.
 
 The number of spaces in the indentation is variable, but all statements within the block must be indented the same amount. For example,
-`python3
+```python3
 if True:
    print ("True")
 else:
    print ("False")
-`
+```
 In Python all the continuous lines indented with same number of spaces would form a block.
 
 # Comments in Python
 A hash sign (#) that is not inside a string literal begins a comment. All characters after the # and up to the end of the physical line are part of the comment and the Python interpreter ignores them.
-`python3
+```python3
 # First comment
 print "Hello!" # second comment
-`
+```
 This produces the following result,
 `Hello!`
