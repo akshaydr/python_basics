@@ -15,3 +15,4 @@ To learn python from scratch, The stepwise workflow i am following is as follows
 - [x] [Part 2 : Data Type Conversion](doc/datatype_conersion.md)
 - [x] [Part 3 : Basic operators](doc/operators.md)
 - [x] [Part 4 : if else statements](doc/if_else.md)
+- [x] [Part 5 : Loops](doc/loops.md)
