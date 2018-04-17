@@ -18,7 +18,7 @@ Python has various standard data types that are used to define the operations po
 Python variables do not need explicit declaration to reserve memory space. The declaration happens automatically when you assign a value to a variable. The equal sign (=) is used to assign values to variables.
 As in almost all programming languages, the operand to the left of the = operator is the name of the variable and the operand to the right of the = operator is the value stored in the variable.
 For example:
-```python3
+```python
 #!/usr/bin/python3
 
 index = 100          # An integer assignment
@@ -65,7 +65,7 @@ Strings in Python are identified as a contiguous set of characters represented i
 Adding of two strings is made very simple in python. The plus (+) sign is the string concatenation operator and the asterisk ( * ) is the repetition operator.
 
 For example,
-```python3
+```python
 #!/usr/bin/python3
 
 str = 'Hello World!'
@@ -92,7 +92,7 @@ Lists are the most versatile of Python's compound data types. A list contains it
 
 The values stored in a list can be accessed using the slice operator ([ ] and [:]) with indexes starting at 0 in the beginning of the list and working their way to end -1. The plus (+) sign is the list concatenation operator, and the asterisk ( * ) is the repetition operator.
 For example,
-```python3
+```python
 #!/usr/bin/python3
 
 list1 = [ 'abcd', 786 , 2.23, 'john', 70.2 ]
@@ -120,7 +120,7 @@ A tuple is another sequence data type that is similar to the list. A tuple consi
 
 The main difference between lists and tuples are − Lists are enclosed in brackets ( [ ] ) and their elements and size can be changed, while tuples are enclosed in parentheses ( ( ) ) and cannot be updated. Tuples can be thought of as read-only lists.
 For example,
-```python3
+```python
 #!/usr/bin/python3
 
 tuple1 = ( 'abcd', 786 , 2.23, 'john', 70.2  )
@@ -148,7 +148,7 @@ Python's dictionaries are kind of hash-table type. They work like associative ar
 
 Dictionaries are enclosed by curly braces ({ }) and values can be assigned and accessed using square braces ([])
 For example,
-```python3
+```python
 #!/usr/bin/python3
 
 dict = {}
@@ -164,7 +164,7 @@ print (dict2.keys())      # Prints all the keys
 print (dict2.values())    # Prints all the values
 ```
 This will produces the following result,
-```python3
+```
 This is one
 This is two
 {'name': 'john', 'dept': 'sales', 'code': 6734}

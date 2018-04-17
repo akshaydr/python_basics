@@ -25,7 +25,7 @@ However in python 2, parenthesis is not necessary in the print statement. Parent
 Invoking the interpreter with a script parameter begins execution of the script and continues until the script is finished. When the script is finished, the interpreter is no longer active.
 
 Let us write a simple Python program in a script. Python files have extension .py. Type the following source code in a hello.py file −
-```python3
+```python
 print ("Hello World!")
 ```
 
@@ -63,7 +63,7 @@ except          lambda       yield
 Python provides no braces to indicate blocks of code for class and function definitions or flow control. Blocks of code are denoted by line indentation, which is rigidly enforced.
 
 The number of spaces in the indentation is variable, but all statements within the block must be indented the same amount. For example,
-```python3
+```python
 if True:
    print ("True")
 else:
@@ -73,7 +73,7 @@ In Python all the continuous lines indented with same number of spaces would for
 
 # Comments in Python
 A hash sign (#) that is not inside a string literal begins a comment. All characters after the # and up to the end of the physical line are part of the comment and the Python interpreter ignores them.
-```python3
+```python
 # First comment
 print "Hello!" # second comment
 ```
